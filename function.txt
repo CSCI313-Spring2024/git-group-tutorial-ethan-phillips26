@@ -1,2 +1,5 @@
 This is a representation of an unfinished function a group member is working on.
 This is a new change from Ethan Phillips
+
+this is a representation of an unfinished function a group member is working on
+this is a new change from Donny Schroeder
